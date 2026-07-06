@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Sahana Naik
+### Aspiring Full Stack Developer
+I recently completed my MCA and I'm passionate about building modern web applications using the MERN Stack.
+Currently looking for Software Developer opportunities where I can learn and contribute.
+---
+## 👩‍💻 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+---
+## 🚀 Featured Project
+### Smart Menstrual Health Assistant
+A web application that helps women track menstrual cycles, predict upcoming periods, log moods, and receive personalized health insights.
+**Tech Stack**
+- Python (Flask)
+- HTML
+- CSS
+- JavaScript
+- MySQL
+(Currently rebuilding using MERN Stack.)
+---
+## 🌱 Currently Learning
+- Advanced React
+- REST APIs
+- Authentication
+- MongoDB
+---
+## 📫 9011578429
 
-<!--
-**pinkynaik/pinkynaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 sahananaik1513@gmail.com
 
-Here are some ideas to get you started:
+💼 https://www.linkedin.com/in/sahana-naik-742444344
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 https://github.com/pinkynaik
+
+---
+
+Thanks for visiting my profile 😊
